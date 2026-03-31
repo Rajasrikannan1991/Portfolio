@@ -1,4 +1,4 @@
-![alt text](image.jpg)
+![Rajasri Kannan]([image.jpg](https://github.com/Rajasrikannan1991/Portfolio/blob/Portfolio/Profile%20Photo.jpeg))
 # Hi, I'm Rajasri Kannan 👋
 
 ## 🚀 About Me
@@ -41,8 +41,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: rajasrikannan1991@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/rajasri-kannan-682387324
 
 ---
 
