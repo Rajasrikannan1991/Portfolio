@@ -1,4 +1,4 @@
-![Rajasri Kannan](https://github.com/Rajasrikannan1991/Portfolio/blob/Portfolio/Profile%20Photo.jpeg?raw=true)
+![Rajasri Kannan]([https://github.com/Rajasrikannan1991/Portfolio/blob/Portfolio/Profile%20Photo.jpeg?raw=true](https://github.com/Rajasrikannan1991/Rajasrikannan1991/blob/Portfolio/Profile%20Picture.png?raw=true))
 # Hi, I'm Rajasri Kannan 👋
 
 ## 🚀 About Me
